@@ -3,6 +3,7 @@ const summary = {
   "repoName": "gutu-lib-ui-query",
   "packageId": "ui-query",
   "displayName": "UI Query",
+  "packageCount": 1,
   "group": "UI Foundation",
   "maturity": "Hardened",
   "description": "TanStack Query wrapper APIs.",

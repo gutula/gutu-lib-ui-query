@@ -35,6 +35,7 @@ Provides UI-facing query helpers and view-state primitives for list, search, and
 | Package ID | `ui-query` |
 | Display Name | UI Query |
 | Import Name | `@platform/ui-query` |
+| Canonical Namespace Target | `@gutu/ui-query` |
 | Version | `0.1.0` |
 | UI Surface | Headless typed exports |
 | Consumption Model | Imports + typed helpers |
@@ -48,6 +49,7 @@ Provides UI-facing query helpers and view-state primitives for list, search, and
 | Dev Dependencies | None |
 | React Runtime | No |
 | Workspace Scoped | No |
+| Legacy Compatibility IDs | `@platform/ui-query` |
 
 ### Dependency interpretation
 
